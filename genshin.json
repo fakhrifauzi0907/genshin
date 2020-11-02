@@ -714,20 +714,6 @@
       "nama_cat": "part3",
       "judul":"",
       "image":"file:///android_asset/gambar/abc (95).jpg"
-    },
-    {
-      "id":96,
-      "id_wall":"0096",
-      "nama_cat": "part3",
-      "judul":"",
-      "image":"file:///android_asset/gambar/abc (96).jpg"
-    },
-    {
-      "id":97,
-      "id_wall":"0097",
-      "nama_cat": "part3",
-      "judul":"",
-      "image":"file:///android_asset/gambar/abc (97).jpg"
     }
   ]
 }
